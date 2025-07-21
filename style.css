@@ -144,4 +144,63 @@ header{
 .flex-box-footer{
    color:#252432 ;
 }
+#ready{
+     width: 900px;
+    height: 520px;
+   
+    margin: 60px 267px 50px 250px;
+     background-color: white;
+}
+#ready h1{
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+}
+#ready p{
+     font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    color: #252432;
+
+}
+#ready button{
+
+    width: 132px;
+    height: 48px;
+   padding:12px 12px ;
+   text-align: canter;
+   margin-left: 390px;
+   
+
+}
+#ready img{
+    width :700px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 20px;
+    
+}
+#newsletter{
+     width: 900px;
+    height: 430px;
+   
+    margin: 60px 267px 20px 250px;
+    display: flex;
+    justify-content: space-around;
+    gap: 200px;
+    
+}
+#newsletter p{
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: justify;
+    margin-top:150px  ;
+    margin-left: 40px;
+}
+#newsletter button{
+     width: 385px;
+    height: 48px;
+   padding:12px 12px ;
+   text-align: canter;
+}
 
