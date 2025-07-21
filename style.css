@@ -203,4 +203,31 @@ header{
    padding:12px 12px ;
    text-align: canter;
 }
+#footer{
+    width: 900px;
+    height: 450px;
+     margin: 0px 267px 0px 250px;
 
+
+}
+#footer h1{
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+
+}
+#footer p{
+    font-size: 30px;
+    font-weight: 200;
+    color: #252432;
+      text-align: center;
+}
+.last{
+    display: flex;
+    justify-content: space-around;
+
+    font-size: 20px;
+    font-weight: 200;
+    color: #252432;
+      text-align: center;
+}
