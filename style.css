@@ -57,7 +57,7 @@ header{
     justify-content: space-between;
     width: 900px;
     height: 330px;
-     margin:0 267px 267px 250px;
+     margin:0 267px 20px 250px;
     
 }
 .background{
@@ -85,3 +85,28 @@ header{
     border: none;
     border-radius: 40px;
 }
+#user {
+     width: 900px;
+    height: 230px;
+     margin:60px 267px 20px 250px;
+     text-align: center;
+     background-color: rgb(221, 233, 240);
+     padding: 36px 12px;
+}
+#user p:nth-child(1){
+    font-size: 30px;
+    font-weight: bolder;
+}
+.user-info{
+    display: flex;
+    justify-content: space-around;
+}
+.user-info h1{
+    font-size: 40px;
+    font-weight: bolder;
+
+}
+.user-info p{
+     color:#252432 ;
+}
+
