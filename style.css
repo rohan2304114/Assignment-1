@@ -109,4 +109,39 @@ header{
 .user-info p{
      color:#252432 ;
 }
+#touch{
+     width: 900px;
+    height: 350px;
+   
+    margin: 60px 267px 20px 250px;
+
+}
+#touch h1:nth-child(1){
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 10px 0px 10px;
+    gap:50px;
+    
+   
+   
+}
+.flex-box{
+   
+    background-color: white;
+}
+.flex-box-footer{
+      display: flex;
+     
+     gap:30px;
+   
+}
+.flex-box-footer{
+   color:#252432 ;
+}
 
